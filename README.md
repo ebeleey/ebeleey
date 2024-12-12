@@ -1,6 +1,8 @@
 
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D6D,50:FF7F50,100:FF4500&height=180&section=header&text=Da-ee&fontSize=38&fontColor=FFFFFF" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E7E8CC,50:F3A5B6,100:D17C92&height=180&section=header&text=Da-ee&fontSize=38&fontColor=5A5A42" />
+
+
 
 
 **Education**
@@ -24,7 +26,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ebeleey)](https://solved.ac/ebeleey/)
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:FF4D6D,50:FF7F50,100:FF4500)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:E7E8CC,50:F3A5B6,100:D17C92)
 
 </div>
 
