@@ -6,7 +6,7 @@
 
 **Education**
 
-2024.07 ~ ing<br>
+2024.07 ~ 2025. 06<br>
 삼성 청년 SW 아카데미(SSAFY) 12기
 
 2020.03 ~ 2024.02<br>
@@ -16,12 +16,4 @@
 
 **Tech Stack**
 
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B"/> 
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=35495E"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=ffffff"/> 
-
-
-
-
-
-
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="79" height="79" /></div>
