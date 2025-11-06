@@ -25,5 +25,5 @@
 | 프로젝트명 | 기간 | 설명 | 기술스택 |
 |------------|------|------|--------|
 | [타닥](https://github.com/teamdadada/tadak) | 2025.03.18 ~ 04.19 | 키보드 큐레이션 웹 서비스<br>🏆`SSAFY 자율 프로젝트 우수상 수상`| <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> |
-| [솔브냥](https://github.com/solve-nyang/solve-nyang) | 2024.12.10 ~ 01.12 | 알고리즘 기반 게이미피케이션 플랫폼 | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> |
+| [솔브냥](https://github.com/solve-nyang/solve-nyang) | 2024.12.10 ~ 01.12 | 알고리즘 문제 풀고 깃허브 리드미 꾸미기 | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> |
 | [Prana](https://github.com/yogaplay/prana) | 2025.02.05 ~ 02.25 | AI 요가 튜터 앱<br>🏆`SSAFY 특화 프로젝트 우수상 수상` | <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">|
